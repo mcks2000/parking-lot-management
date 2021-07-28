@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cf-chat/cf-chat-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-chat/cf-chat-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-chat/cf-chat-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-chat/cf-chat-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-chat/cf-chat-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-chat/cf-chat-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-chat/cf-chat-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-chat/cf-chat-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-file/cf-file-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-file/cf-file-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-file/cf-file-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-file/cf-file-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-file/cf-file-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-file/cf-file-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-file/cf-file-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-file/cf-file-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-framework-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-framework-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-framework-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-sms/cf-sms-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

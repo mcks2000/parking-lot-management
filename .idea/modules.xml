@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-api/cf-car-park-api.iml" filepath="$PROJECT_DIR$/cf-internet-of-things/cf-car-park-api/cf-car-park-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-dao/cf-car-park-dao.iml" filepath="$PROJECT_DIR$/cf-internet-of-things/cf-car-park-dao/cf-car-park-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-domain/cf-car-park-domain.iml" filepath="$PROJECT_DIR$/cf-internet-of-things/cf-car-park-domain/cf-car-park-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-interface/cf-car-park-interface.iml" filepath="$PROJECT_DIR$/cf-internet-of-things/cf-car-park-interface/cf-car-park-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-internet-of-things/cf-car-park-service/cf-car-park-service.iml" filepath="$PROJECT_DIR$/cf-internet-of-things/cf-car-park-service/cf-car-park-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-chat/cf-chat.iml" filepath="$PROJECT_DIR$/cf-chat/cf-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-chat/cf-chat-api/cf-chat-api.iml" filepath="$PROJECT_DIR$/cf-chat/cf-chat-api/cf-chat-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-chat/cf-chat-dao/cf-chat-dao.iml" filepath="$PROJECT_DIR$/cf-chat/cf-chat-dao/cf-chat-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-chat/cf-chat-domain/cf-chat-domain.iml" filepath="$PROJECT_DIR$/cf-chat/cf-chat-domain/cf-chat-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-chat/cf-chat-interface/cf-chat-interface.iml" filepath="$PROJECT_DIR$/cf-chat/cf-chat-interface/cf-chat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-chat/cf-chat-service/cf-chat-service.iml" filepath="$PROJECT_DIR$/cf-chat/cf-chat-service/cf-chat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-file/cf-file.iml" filepath="$PROJECT_DIR$/cf-file/cf-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-file/cf-file-api/cf-file-api.iml" filepath="$PROJECT_DIR$/cf-file/cf-file-api/cf-file-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-file/cf-file-dao/cf-file-dao.iml" filepath="$PROJECT_DIR$/cf-file/cf-file-dao/cf-file-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-file/cf-file-domain/cf-file-domain.iml" filepath="$PROJECT_DIR$/cf-file/cf-file-domain/cf-file-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-file/cf-file-interface/cf-file-interface.iml" filepath="$PROJECT_DIR$/cf-file/cf-file-interface/cf-file-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-file/cf-file-service/cf-file-service.iml" filepath="$PROJECT_DIR$/cf-file/cf-file-service/cf-file-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-framework-common/cf-framework-common.iml" filepath="$PROJECT_DIR$/cf-framework-common/cf-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-framework-model/cf-framework-model.iml" filepath="$PROJECT_DIR$/cf-framework-model/cf-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-framework-parent/cf-framework-parent.iml" filepath="$PROJECT_DIR$/cf-framework-parent/cf-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-framework-utils/cf-framework-utils.iml" filepath="$PROJECT_DIR$/cf-framework-utils/cf-framework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-internet-of-things/cf-internet-of-things.iml" filepath="$PROJECT_DIR$/cf-internet-of-things/cf-internet-of-things.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-sms/cf-sms.iml" filepath="$PROJECT_DIR$/cf-sms/cf-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-sms/cf-sms-api/cf-sms-api.iml" filepath="$PROJECT_DIR$/cf-sms/cf-sms-api/cf-sms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-sms/cf-sms-dao/cf-sms-dao.iml" filepath="$PROJECT_DIR$/cf-sms/cf-sms-dao/cf-sms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-sms/cf-sms-domain/cf-sms-domain.iml" filepath="$PROJECT_DIR$/cf-sms/cf-sms-domain/cf-sms-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-sms/cf-sms-interface/cf-sms-interface.iml" filepath="$PROJECT_DIR$/cf-sms/cf-sms-interface/cf-sms-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-sms/cf-sms-service/cf-sms-service.iml" filepath="$PROJECT_DIR$/cf-sms/cf-sms-service/cf-sms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter.iml" filepath="$PROJECT_DIR$/cf-ucenter/cf-ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-admin/cf-ucenter-admin.iml" filepath="$PROJECT_DIR$/cf-ucenter/cf-ucenter-admin/cf-ucenter-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-api/cf-ucenter-api.iml" filepath="$PROJECT_DIR$/cf-ucenter/cf-ucenter-api/cf-ucenter-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-auth/cf-ucenter-auth.iml" filepath="$PROJECT_DIR$/cf-ucenter/cf-ucenter-auth/cf-ucenter-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-dao/cf-ucenter-dao.iml" filepath="$PROJECT_DIR$/cf-ucenter/cf-ucenter-dao/cf-ucenter-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-domain/cf-ucenter-domain.iml" filepath="$PROJECT_DIR$/cf-ucenter/cf-ucenter-domain/cf-ucenter-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-interface/cf-ucenter-interface.iml" filepath="$PROJECT_DIR$/cf-ucenter/cf-ucenter-interface/cf-ucenter-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cf-ucenter/cf-ucenter-service/cf-ucenter-service.iml" filepath="$PROJECT_DIR$/cf-ucenter/cf-ucenter-service/cf-ucenter-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/parking-lot-management.iml" filepath="$PROJECT_DIR$/.idea/parking-lot-management.iml" />
+    </modules>
+  </component>
+</project>
